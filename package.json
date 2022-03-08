@@ -1,0 +1,25 @@
+{
+  "name": "notion-calendar-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmoreva/notion-calendar-integration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmoreva/notion-calendar-integration/issues"
+  },
+  "homepage": "https://github.com/gmoreva/notion-calendar-integration#readme",
+  "dependencies": {
+    "@notionhq/client": "^1.0.2",
+    "express": "^4.17.3",
+    "ics": "^2.35.0",
+    "moment": "^2.29.1"
+  }
+}
